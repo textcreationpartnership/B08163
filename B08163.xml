@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The wondrus flittinge of the kirk of our B. Ledy of Loreto.</title>
+            <author>Teramano, Pietro.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1635</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08163</idno>
+            <idno type="OCLC"> 82475646</idno>
+            <idno type="STC">STC 23884A.8</idno>
+            <idno type="STC">ESTC S95500</idno>
+            <idno type="EEBO-CITATION">82475646</idno>
+            <idno type="OCLC">ocm 82475646</idno>
+            <idno type="VID">185195</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08163)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185195)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2257:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The wondrus flittinge of the kirk of our B. Ledy of Loreto.</title>
+                  <author>Teramano, Pietro.</author>
+                  <author>Corbington, Robert, 1596-1637.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Per Franceso Serafini.,</publisher>
+                  <pubPlace>In Loreto :</pubPlace>
+                  <date>M. DC. XXXV. [1635].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Pietro Teramano; transl. from Latin by R. Corbington--Cf. STC (2nd ed.).</note>
+                  <note>"Con licenza de' Superiori."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary, --  Blessed Virgin, Saint --  Shrines --  Italy --  Loreto --  Early works to 1800.</term>
+               <term>Santa Casa (Loreto, Italy) --  Early works to 1800.</term>
+               <term>Christian shrines --  Italy --  Loreto --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="sco">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185195:1" rendition="simple:additions"/>
+            <head>THE VVONDRVS FLITTINGE OF THE KIRK OF OVR B. LEDY OF LORETO.
+<figure>
+                  <figDesc>depiction of the Church of Loreto</figDesc>
+               </figure>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Kirk of Laureto vvas a caumber of the houſe of the bleſt Virgin neir Ieruſale<g ref="char:cmbAbbrStroke">̄</g> in the toune of Nazaret, in vvhilk ſhe vvas borne and teende vp, and greeted by the Angel, and thairin alſo conceaued and nouriſht har ſonne IESVS vvhill he vvas tvvalle ȝear avvd. This caumber, efter the Aſcenſione of our B. Seuiour, vvas by the Apoſtles hallovved and made a Kirk in honor of our B. Ledy, and S. Lvke framed a pictur to har vary lyknes thair ȝit to be ſeine. It vvas haunted vvith muccle deuotione by the folk of the land vvhar it ſtud, als lang as they vver Catholiks; Bot vvhan they forſeckte the Chriſten feth, and vvent efter the errour of Mahomet, the Angels tooket, and ſet it in Sclauonia by a toune nemmed Flumen; VVhar net being honored as it ſould, they tranſported it ouer ſea to a vvood in the bounds of Recanati, belanginge to a neble dame called Laureta, frae vvhem it tuke it nem of our B. Ledy of Laureto; And thence agen, for cauſe of many theifries, to a hill of tvva brothers, in the ſame bounds; And laſtly, for there ſtriuing for the gifts and oblations, to the high-roade neir-by, vvhar it ȝit ſtands meruellous for mirakels, and aboue ground vvithout foundatione; VVharat the indvvellers of the toune of Recanati, vvha cam aft to ſie it, meikle vvondring; bigged a great vvall about it; Ȝit caude ne man tel vvherefrae it cam firſt vvhill in the ȝeir M.CC.XC.VI. the B. V. in ſleipe reuelled it to a helly deuote man, and he telled it to diuers of athority in this place, vvhe preſently reſoluing to try the treuth of the vizione, decried to find out ſaxteine parſons of credit, vvhem they sent altogather, to that end, to the toune of Nazaret, garring them to beare vvith them the meſur of this Kirk, and to met it thair vvith the foundatione vvhilk vvas ȝet to the fore; They fand them baith alike, and in a vvall thairby ingraune, that it hed ſtud thair, and hed forgaune the place, and than, cuming back agen, declared the forſeide vizi<g ref="char:EOLhyphen"/>one to be trevv, and frae that tim fourth, it hes beine ſurly kend that this Kirk vvas the caumber of the B. V. vvharto Chriſtens begun than, and hes euer efter hed muccle deuotione, for that in it daily ſhe hes dun, and dus, many and many mirakel. Anefrier Paul de Silua an Eremit of muccle godlines, vvha vvoned in a cell neir-by this Kirk vvhare daily he vvent to mattins, ſeyd, that for ten ȝeirs, one the eight of September, tvveye hours before day, he ſavve a light deſcend frem heauen vpon it, vvhlik he ſeyd vvas the B. V. vvha thair ſhavved har ſelfe one the feeſt of har birth. In proofe of all vvhilk, tvva verteous men of the ſeyd toune of Recanati, many times auovved to me, Ruler of Terreman, and Gouernor of the forſeyd Kirk, as follovveth: Ane of them, nemmed Paule Renalduci, affermed that his grandſyres grandſyre ſavve vvhan the Angels broght it ouer ſea, ſetting it in the forſeyd vvood, and hed aft frequented it thair; The other, nemmed Francis Prior, ſicklik ſeyd that his grandſyre, being a hunder and tvvantie ȝeirs avvd, hed alſo meikle haunted it in the ſame place; and for a mere ſur teſtimony that it hed beine thair, he reported, that his grandſyres grandſyre hed a houſe beſide it vvharin he dvvelled, and that in his deyes it vvas beared by the Angels frae thence to the hill of the tvveye brothers, vvhar they ſet it, as ſeyd is.</p>
+            <closer>To the glorie of the meſt pure Virgin.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>IN LORETO Per Franceſco Serafini. M.DC.XXXV.</p>
+         </div>
+         <div xml:lang="ita" type="license">
+            <p>Con licenza de Superiori.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
